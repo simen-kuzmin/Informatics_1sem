@@ -1,2 +1,2 @@
-# Informatics_1sem
+# Informatics_4sem
 информатика
